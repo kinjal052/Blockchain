@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\algo surat\\Algorand Console Template1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B75D2A8-1C82-4413-A972-2876646DBE0C}|Algorand Console Template1\\Algorand Console Template1.csproj|d:\\algo surat\\algorand console template1\\algorand console template1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B75D2A8-1C82-4413-A972-2876646DBE0C}|Algorand Console Template1\\Algorand Console Template1.csproj|solutionrelative:algorand console template1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B75D2A8-1C82-4413-A972-2876646DBE0C}|Algorand Console Template1\\Algorand Console Template1.csproj|d:\\algo surat\\algorand console template1\\algorand console template1\\contractproxies\\hellowordproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B75D2A8-1C82-4413-A972-2876646DBE0C}|Algorand Console Template1\\Algorand Console Template1.csproj|solutionrelative:algorand console template1\\contractproxies\\hellowordproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B75D2A8-1C82-4413-A972-2876646DBE0C}|Algorand Console Template1\\Algorand Console Template1.csproj|d:\\algo surat\\algorand console template1\\algorand console template1\\contracts\\helloword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B75D2A8-1C82-4413-A972-2876646DBE0C}|Algorand Console Template1\\Algorand Console Template1.csproj|solutionrelative:algorand console template1\\contracts\\helloword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B75D2A8-1C82-4413-A972-2876646DBE0C}|Algorand Console Template1\\Algorand Console Template1.csproj|d:\\algo surat\\algorand console template1\\algorand console template1\\contracts\\concatbytescontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B75D2A8-1C82-4413-A972-2876646DBE0C}|Algorand Console Template1\\Algorand Console Template1.csproj|solutionrelative:algorand console template1\\contracts\\concatbytescontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HellowordProxy.cs",
+              "DocumentMoniker": "D:\\algo surat\\Algorand Console Template1\\Algorand Console Template1\\ContractProxies\\HellowordProxy.cs",
+              "RelativeDocumentMoniker": "Algorand Console Template1\\ContractProxies\\HellowordProxy.cs",
+              "ToolTip": "D:\\algo surat\\Algorand Console Template1\\Algorand Console Template1\\ContractProxies\\HellowordProxy.cs",
+              "RelativeToolTip": "Algorand Console Template1\\ContractProxies\\HellowordProxy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:20:36.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Helloword.cs",
+              "DocumentMoniker": "D:\\algo surat\\Algorand Console Template1\\Algorand Console Template1\\Contracts\\Helloword.cs",
+              "RelativeDocumentMoniker": "Algorand Console Template1\\Contracts\\Helloword.cs",
+              "ToolTip": "D:\\algo surat\\Algorand Console Template1\\Algorand Console Template1\\Contracts\\Helloword.cs",
+              "RelativeToolTip": "Algorand Console Template1\\Contracts\\Helloword.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA4wBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:07:50.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConcatBytesContract.cs",
+              "DocumentMoniker": "D:\\algo surat\\Algorand Console Template1\\Algorand Console Template1\\Contracts\\ConcatBytesContract.cs",
+              "RelativeDocumentMoniker": "Algorand Console Template1\\Contracts\\ConcatBytesContract.cs",
+              "ToolTip": "D:\\algo surat\\Algorand Console Template1\\Algorand Console Template1\\Contracts\\ConcatBytesContract.cs",
+              "RelativeToolTip": "Algorand Console Template1\\Contracts\\ConcatBytesContract.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:06:08.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\algo surat\\Algorand Console Template1\\Algorand Console Template1\\Program.cs",
+              "RelativeDocumentMoniker": "Algorand Console Template1\\Program.cs",
+              "ToolTip": "D:\\algo surat\\Algorand Console Template1\\Algorand Console Template1\\Program.cs",
+              "RelativeToolTip": "Algorand Console Template1\\Program.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAowAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:57:24.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\Algorand Console Template1.exe
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\Algorand Console Template1.deps.json
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\Algorand Console Template1.runtimeconfig.json
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\Algorand Console Template1.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\Algorand Console Template1.pdb
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\AlgoStudio.Core.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\AlgoStudio.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\Algorand.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\JsonSubTypes.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\Microsoft.VisualStudio.Shared.VSCodeDebugProtocol.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\MsgPack.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\Newtonsoft.Msgpack.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\RestSharp.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\System.CodeDom.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\obj\Debug\net6.0\Algorand Console Template1.csproj.AssemblyReference.cache
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\obj\Debug\net6.0\Algorand Console Template1.GeneratedMSBuildEditorConfig.editorconfig
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\obj\Debug\net6.0\Algorand Console Template1.AssemblyInfoInputs.cache
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\obj\Debug\net6.0\Algorand Console Template1.AssemblyInfo.cs
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\obj\Debug\net6.0\Algorand Console Template1.csproj.CoreCompileInputs.cache
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\obj\Debug\net6.0\Algorand.9015205F.Up2Date
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\obj\Debug\net6.0\Algorand Console Template1.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\obj\Debug\net6.0\refint\Algorand Console Template1.dll
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\obj\Debug\net6.0\Algorand Console Template1.pdb
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\obj\Debug\net6.0\Algorand Console Template1.genruntimeconfig.cache
+D:\algo surat\Algorand Console Template1\Algorand Console Template1\obj\Debug\net6.0\ref\Algorand Console Template1.dll

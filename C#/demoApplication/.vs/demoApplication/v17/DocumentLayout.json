@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\API Applicatipon\\demoApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1722C4-CEA7-4834-B592-469F986B674E}|MVCWebApplication\\MVCWebApplication.csproj|d:\\c#\\api applicatipon\\demoapplication\\mvcwebapplication\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1722C4-CEA7-4834-B592-469F986B674E}|MVCWebApplication\\MVCWebApplication.csproj|solutionrelative:mvcwebapplication\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565B4C9-15ED-4204-85CD-C05EFD42F5D1}|demoApplication\\demoApplication.csproj|d:\\c#\\api applicatipon\\demoapplication\\demoapplication\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565B4C9-15ED-4204-85CD-C05EFD42F5D1}|demoApplication\\demoApplication.csproj|solutionrelative:demoapplication\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1722C4-CEA7-4834-B592-469F986B674E}|MVCWebApplication\\MVCWebApplication.csproj|d:\\c#\\api applicatipon\\demoapplication\\mvcwebapplication\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF1722C4-CEA7-4834-B592-469F986B674E}|MVCWebApplication\\MVCWebApplication.csproj|solutionrelative:mvcwebapplication\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1722C4-CEA7-4834-B592-469F986B674E}|MVCWebApplication\\MVCWebApplication.csproj|d:\\c#\\api applicatipon\\demoapplication\\mvcwebapplication\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF1722C4-CEA7-4834-B592-469F986B674E}|MVCWebApplication\\MVCWebApplication.csproj|solutionrelative:mvcwebapplication\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1722C4-CEA7-4834-B592-469F986B674E}|MVCWebApplication\\MVCWebApplication.csproj|d:\\c#\\api applicatipon\\demoapplication\\mvcwebapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF1722C4-CEA7-4834-B592-469F986B674E}|MVCWebApplication\\MVCWebApplication.csproj|solutionrelative:mvcwebapplication\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1722C4-CEA7-4834-B592-469F986B674E}|MVCWebApplication\\MVCWebApplication.csproj|d:\\c#\\api applicatipon\\demoapplication\\mvcwebapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF1722C4-CEA7-4834-B592-469F986B674E}|MVCWebApplication\\MVCWebApplication.csproj|solutionrelative:mvcwebapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1722C4-CEA7-4834-B592-469F986B674E}|MVCWebApplication\\MVCWebApplication.csproj|d:\\c#\\api applicatipon\\demoapplication\\mvcwebapplication\\views\\student\\updatestudentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF1722C4-CEA7-4834-B592-469F986B674E}|MVCWebApplication\\MVCWebApplication.csproj|solutionrelative:mvcwebapplication\\views\\student\\updatestudentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1722C4-CEA7-4834-B592-469F986B674E}|MVCWebApplication\\MVCWebApplication.csproj|d:\\c#\\api applicatipon\\demoapplication\\mvcwebapplication\\views\\student\\detailsbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF1722C4-CEA7-4834-B592-469F986B674E}|MVCWebApplication\\MVCWebApplication.csproj|solutionrelative:mvcwebapplication\\views\\student\\detailsbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1722C4-CEA7-4834-B592-469F986B674E}|MVCWebApplication\\MVCWebApplication.csproj|d:\\c#\\api applicatipon\\demoapplication\\mvcwebapplication\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF1722C4-CEA7-4834-B592-469F986B674E}|MVCWebApplication\\MVCWebApplication.csproj|solutionrelative:mvcwebapplication\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\C#\\API Applicatipon\\demoApplication\\MVCWebApplication\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MVCWebApplication\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\C#\\API Applicatipon\\demoApplication\\MVCWebApplication\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MVCWebApplication\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T09:29:55.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#\\API Applicatipon\\demoApplication\\MVCWebApplication\\Views\\student\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCWebApplication\\Views\\student\\Index.cshtml",
+              "ToolTip": "D:\\C#\\API Applicatipon\\demoApplication\\MVCWebApplication\\Views\\student\\Index.cshtml",
+              "RelativeToolTip": "MVCWebApplication\\Views\\student\\Index.cshtml",
+              "ViewState": "AQIAADcAAAAAAAAAAAAIwD4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T06:05:44.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "studentController.cs",
+              "DocumentMoniker": "D:\\C#\\API Applicatipon\\demoApplication\\MVCWebApplication\\Controllers\\studentController.cs",
+              "RelativeDocumentMoniker": "MVCWebApplication\\Controllers\\studentController.cs",
+              "ToolTip": "D:\\C#\\API Applicatipon\\demoApplication\\MVCWebApplication\\Controllers\\studentController.cs",
+              "RelativeToolTip": "MVCWebApplication\\Controllers\\studentController.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAAwJsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:32:24.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddStudent.cshtml",
+              "DocumentMoniker": "D:\\C#\\API Applicatipon\\demoApplication\\MVCWebApplication\\Views\\student\\AddStudent.cshtml",
+              "RelativeDocumentMoniker": "MVCWebApplication\\Views\\student\\AddStudent.cshtml",
+              "ToolTip": "D:\\C#\\API Applicatipon\\demoApplication\\MVCWebApplication\\Views\\student\\AddStudent.cshtml",
+              "RelativeToolTip": "MVCWebApplication\\Views\\student\\AddStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T06:46:04.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "studentsController.cs",
+              "DocumentMoniker": "D:\\C#\\API Applicatipon\\demoApplication\\demoApplication\\Controllers\\studentsController.cs",
+              "RelativeDocumentMoniker": "demoApplication\\Controllers\\studentsController.cs",
+              "ToolTip": "D:\\C#\\API Applicatipon\\demoApplication\\demoApplication\\Controllers\\studentsController.cs",
+              "RelativeToolTip": "demoApplication\\Controllers\\studentsController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAQwFQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:08:36.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\C#\\API Applicatipon\\demoApplication\\MVCWebApplication\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MVCWebApplication\\appsettings.Development.json",
+              "ToolTip": "D:\\C#\\API Applicatipon\\demoApplication\\MVCWebApplication\\appsettings.Development.json",
+              "RelativeToolTip": "MVCWebApplication\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T09:30:19.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateStudentDetails.cshtml",
+              "DocumentMoniker": "D:\\C#\\API Applicatipon\\demoApplication\\MVCWebApplication\\Views\\student\\UpdateStudentDetails.cshtml",
+              "RelativeDocumentMoniker": "MVCWebApplication\\Views\\student\\UpdateStudentDetails.cshtml",
+              "ToolTip": "D:\\C#\\API Applicatipon\\demoApplication\\MVCWebApplication\\Views\\student\\UpdateStudentDetails.cshtml",
+              "RelativeToolTip": "MVCWebApplication\\Views\\student\\UpdateStudentDetails.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAIwCYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T07:03:06.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\C#\\API Applicatipon\\demoApplication\\MVCWebApplication\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MVCWebApplication\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\C#\\API Applicatipon\\demoApplication\\MVCWebApplication\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MVCWebApplication\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T06:03:30.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetailsByID.cshtml",
+              "DocumentMoniker": "D:\\C#\\API Applicatipon\\demoApplication\\MVCWebApplication\\Views\\student\\DetailsByID.cshtml",
+              "RelativeDocumentMoniker": "MVCWebApplication\\Views\\student\\DetailsByID.cshtml",
+              "ToolTip": "D:\\C#\\API Applicatipon\\demoApplication\\MVCWebApplication\\Views\\student\\DetailsByID.cshtml",
+              "RelativeToolTip": "MVCWebApplication\\Views\\student\\DetailsByID.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T07:25:33.569Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
